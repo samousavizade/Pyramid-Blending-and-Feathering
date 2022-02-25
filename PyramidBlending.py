@@ -1,9 +1,5 @@
-from shutil import move
-from tkinter.messagebox import NO
 import cv2 as cv
-import cv2
 import numpy as np
-import skimage.filters as filters
 import matplotlib.pyplot as plt
 
 class PolygonMaker:

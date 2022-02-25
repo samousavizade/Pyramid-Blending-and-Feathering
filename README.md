@@ -1,3 +1,9 @@
+## Dependencies
+
+- Opencv `cv2`
+- Matplotlib `matplotlib`
+- Numpy `numpy`
+
 ## Project Definition
 
 In this project, with the help of **Feathering with Laplacian Pyramid**, **Source** and **Target** images are blended in different 
